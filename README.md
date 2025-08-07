@@ -1,7 +1,5 @@
 # Calculadora en Python
 
-Este es un proyecto básico de calculadora hecho en Python como parte de mi bootcamp de soporte IT.  
-Primero cumple con la instrucción obligatoria de sumar dos números, y después ofrece operaciones extra.
 
 ## Código
 
